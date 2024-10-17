@@ -1,4 +1,6 @@
-<img src="glideJam.jpeg" alt="GlideJam Header" width="300" align="center"/>
+<p align="center">
+  <img src="glideJam.jpeg" alt="GlideJam Header" width="300"/>
+</p>
 
 # ✈️🎵 GlideJam 🎶
 
