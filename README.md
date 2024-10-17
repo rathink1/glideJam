@@ -2,7 +2,7 @@
   <img src="glideJam.jpeg" alt="GlideJam Header" width="300"/>
 </p>
 
-# ✈️🎵 GlideJam 🎶
+# 🪂 GlideJam 🎵
 
 GlideJam is an innovative Android application that generates a real-time soundtrack based on your flight path, speed, and altitude changes. It provides a unique audio experience for air travelers, adapting the music to the current flight conditions.
 
